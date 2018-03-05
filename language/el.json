@@ -1,16 +1,16 @@
 {
   "libraryStrings":{
-    "insertElement":"Add :type",
-    "done":"Done",
-    "remove":"Remove",
-    "image":"Image",
-    "text":"Text",
-    "noTaskSize":"Please specify task size first.",
-    "confirmRemoval":"Are you sure you wish to remove this element?",
-    "backgroundOpacityOverridden":"The background opacity is overridden",
-    "advancedtext":"Text",
-    "dropzone":"Drop Zone",
-    "selectAll":"Select all",
-    "deselectAll":"Deselect all"
+    "insertElement":"Προσθήκη :type",
+    "done":"Ολοκληρώθηκε",
+    "remove":"Αφαίρεση",
+    "image":"Εικόνα",
+    "text":"Κείμενο",
+    "noTaskSize":"Προσδιορίστε πρώτα το μέγεθος της άσκησης.",
+    "confirmRemoval":"Είστε σίγουροι ότι θέλετε να αφαιρέσετε αυτό το στοιχείο;",
+    "backgroundOpacityOverridden":"Παράβλεψη διαφάνειας φόντου",
+    "advancedtext":"Κείμενο",
+    "dropzone":"Περιοχή απόθεσης",
+    "selectAll":"Επιλογή όλων",
+    "deselectAll":"Αποεπιλογή όλων"
   }
 }
